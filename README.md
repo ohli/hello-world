@@ -12,3 +12,5 @@ My first repo
 ## Who am I?
 No robot, as you might have guessed :-)
 I'm a student off business information systems at HfT Leipzig.
+
+I should learn how to get into branching
